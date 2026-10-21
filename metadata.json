@@ -1,0 +1,6 @@
+{
+  "name": "eShop - Global Marketplace",
+  "description": "International multi-currency marketplace with 18+ verified seller accounts, original photo mandate, anti-fraud warning & ban system, safe escrow payments (strictly No COD), and 24/7 customer support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
